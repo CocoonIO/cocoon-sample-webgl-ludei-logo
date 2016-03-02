@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget id="io.cocoon.template.threejs.horse" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
-    <name>WebGL Horse</name>
+<widget id="io.cocoon.template.threejs.ludeilogo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
+    <name>WebGL Ludei Logo</name>
     <description>
-    An animated 3D model of a horse running, taken from three.js demo list. 
-    Url: http://threejs.org/examples/webgl_morphtargets_horse.html
+    A 3D model of the Ludei logo under the rain.
     </description>
 
     <!-- Shown in the wizard -->
